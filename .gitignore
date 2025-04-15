@@ -1,0 +1,10 @@
+# Go-specific
+**/bin/
+**/vendor/
+**/*.exe
+**/*.out
+**/*.test
+
+# OS-specific
+.DS_Store
+Thumbs.db
