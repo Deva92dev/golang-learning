@@ -1,0 +1,20 @@
+[
+ {
+  "id": 2,
+  "title": "Food",
+  "content": "Rice making",
+  "category": "Cooking"
+ },
+ {
+  "id": 3,
+  "title": "Chapter-1",
+  "content": "Learn History",
+  "category": "Learning"
+ },
+ {
+  "id": 4,
+  "title": "Golang",
+  "content": "Go fundamentals practice",
+  "category": "Coding"
+ }
+]
